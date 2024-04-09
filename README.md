@@ -15,3 +15,4 @@ Here I summarize the projects I am actively working on or have worked on in the 
 * [Material for a workshop on single-cell RNA-seq data analysis with R](https://github.com/chuvalab/sc_analysis_workshop): Material used during a single-cell analysis workshop aimed at biologists with minimal to none programing experience
 * Several single-cell analysis workflows, whose output is part a scientific publication. Some examples [here](https://github.com/chuvalab/embryo_gonads), [here](https://github.com/chuvalab/fibrosis) and [here](https://github.com/johnmous/single_cell-embryo_gonads)
 * [Contributing to ChIP-seq analysis pipeline](https://github.com/biowdl/ChIP-seq), writen in WDL
+* A [python script](https://github.com/johnmous/selectPeaks/tree/main) to select entries from gff file
