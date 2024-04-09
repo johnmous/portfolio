@@ -2,7 +2,7 @@
 Here I summarize the projects I am actively working on or have worked on in the past
 
 ## Active projects
-* [High throughput micorscopy dashboard](https://github.com/chuvalab/dashboard): A web app to visualize marker intensities from a table generated from microscopic images. Written in python, makes use of dash and pandas libraries and can be deploed with Docker
+* [High throughput micorscopy dashboard](https://github.com/chuvalab/dashboard): A web app to visualize marker intensities from a table generated from microscopic images. Written in python, makes use of dash and pandas libraries and can be deployed with Docker
 * [Single-cell dataset processing workflow with Deep Learning](https://github.com/chuvalab/pgclc_scvi): Use SCVI, a deep learning model based on the Autoencoder archtecture to build a single-cell RNA-seq processing workflow in Python. 
 * [Spatial transcriptomics workflow](https://github.com/chuvalab/spatial_transcriptomics_exploring/): A jupyter notebook workflow on Xenium spatial transcriptomics dataset using Python package squidpy for a quick analysis
 
