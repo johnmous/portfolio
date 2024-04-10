@@ -6,7 +6,7 @@ Here I summarize the projects I am actively working on or have worked on in the 
 * [Single-cell dataset processing workflow with Deep Learning](https://github.com/chuvalab/pgclc_scvi): Use SCVI, a deep learning model based on the Autoencoder archtecture to build a single-cell RNA-seq processing workflow in Python. 
 * [Spatial transcriptomics workflow](https://github.com/chuvalab/spatial_transcriptomics_exploring/): A jupyter notebook workflow on Xenium spatial transcriptomics dataset using Python package squidpy for a quick analysis
 * Metabolomics imaging dataset (MALDI-MSI) analysis. Available on gitlab.
-* [Contributing to web app for education](https://github.com/KnowledgePuzzle). This is a collaborative side project and the repo is currently private. Hands on experience with running open source LLM models, building a RAG pipeline. Exposed to django, html, javscript.
+* [Contributing to web app for education (currently private)](https://github.com/KnowledgePuzzle). This is a collaborative side project. Hands on experience with running open source LLM models, building a RAG pipeline. Exposed to django, html, javscript.
 
 
 
